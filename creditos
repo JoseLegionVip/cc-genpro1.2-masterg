@@ -1,0 +1,8 @@
+#!bin/bash
+#Creditos
+echo -e "\e[1;32mCREDITOS AL CREADOR...!"
+echo "Created by: Pollito Dorado "
+echo "Date: 06/08/2018"
+echo "Telegram: t.me/Jose_Vip "
+echo "Youtube: https://www.youtube.com/channel/UCBWt19pL7PfmfyT2i-ymQDA/featured?view_as=subscriber "
+echo -e "\e[1;33mMensaje: \e[1;36mNunca dejes de aprender\e[0m"

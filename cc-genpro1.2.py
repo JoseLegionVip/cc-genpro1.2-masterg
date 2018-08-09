@@ -19,8 +19,9 @@ print ("\033[1;33m3.\033[1;36mGenerador de correo temporal\033[0m")
 print ("\033[1;33m4.\033[1;36mBin Checker\033[0m")
 print ("\033[1;33m5.\033[1;36mVer bin guardados\033[0m")
 print ("\033[1;33m6.\033[1;36mCreditos al creador\033[0m")
-print ("\033[1;33m7.\033[1;36mInformacion\033[0m")
-print ("\033[1;33m8.\033[1;31mSalir...!!\033[0m")
+print ("\033[1;33m7.\033[1;36mBuscador de hosting\033[0m")
+print ("\033[1;33m8.\033[1;36mInformacion\033[0m")
+print ("\033[1;33m9.\033[1;31mSalir...!!\033[0m")
 print (30 * '-')
  
 ## Get input ###
@@ -57,10 +58,12 @@ elif choice == 6:
          time.sleep(8)
          os.system("python2 cc-genpro1.2.py")
 elif choice == 7:
+         os.system("python2 Hosting") 
+elif choice == 8:
          print ("")
          print ("MENSAJE: Este es un simple script para generar bins y ahorrar tiempo al momento de binear en el navegador.")
          
-elif choice == 8:
+elif choice == 9:
           exit ()
 else: 
 ## default ##
